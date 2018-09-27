@@ -1,0 +1,19 @@
+{
+  "name": "cabs_web_client",
+  "version": "0.1.0",
+  "description": "Web client for Cabs Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hrishi <hrishikesh.mk@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^10.11.0",
+    "@types/node-sass": "^3.10.32",
+    "mkdirp": "^0.5.1",
+    "node-sass": "^4.9.3",
+    "node-watch": "^0.5.8",
+    "typescript": "^3.0.3"
+  }
+}
