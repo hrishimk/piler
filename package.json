@@ -1,6 +1,6 @@
 {
   "name": "cabs_web_client",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Web client for Cabs Server",
   "main": "index.js",
   "scripts": {
@@ -9,11 +9,16 @@
   "author": "hrishi <hrishikesh.mk@gmail.com>",
   "license": "ISC",
   "devDependencies": {
+    "@types/html-minifier": "^3.5.2",
     "@types/node": "^10.11.0",
     "@types/node-sass": "^3.10.32",
+    "@types/xmldom": "^0.1.29",
+    "html-minifier": "^3.5.20",
     "mkdirp": "^0.5.1",
     "node-sass": "^4.9.3",
     "node-watch": "^0.5.8",
-    "typescript": "^3.0.3"
+    "typescript": "^3.1.1",
+    "xmldom": "^0.1.27",
+    "xmldom-qsa": "^1.0.3"
   }
 }

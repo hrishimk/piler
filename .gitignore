@@ -1,3 +1,6 @@
 node_modules
 index.js
 src
+*.js
+test
+test.ts
